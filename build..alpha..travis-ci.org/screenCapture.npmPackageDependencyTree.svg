@@ -1,0 +1,59 @@
+<svg height="894" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="894" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">4 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ psy@1.8.1 </tspan>
+<tspan x="10" y="90">  ├─┬ auto-daemon@2.6.0 </tspan>
+<tspan x="10" y="106">  │ └─┬ multiplex-rpc@1.0.1 </tspan>
+<tspan x="10" y="122">  │   └─┬ multiplex@6.7.0 </tspan>
+<tspan x="10" y="138">  │     ├─┬ duplexify@3.5.0 </tspan>
+<tspan x="10" y="154">  │     │ ├─┬ end-of-stream@1.0.0 </tspan>
+<tspan x="10" y="170">  │     │ │ └── once@1.3.3 </tspan>
+<tspan x="10" y="186">  │     │ └── stream-shift@1.0.0 </tspan>
+<tspan x="10" y="202">  │     ├─┬ readable-stream@2.2.9 </tspan>
+<tspan x="10" y="218">  │     │ ├── buffer-shims@1.0.0 </tspan>
+<tspan x="10" y="234">  │     │ ├── isarray@1.0.0 </tspan>
+<tspan x="10" y="250">  │     │ ├── process-nextick-args@1.0.7 </tspan>
+<tspan x="10" y="266">  │     │ ├── string_decoder@1.0.0 </tspan>
+<tspan x="10" y="282">  │     │ └── util-deprecate@1.0.2 </tspan>
+<tspan x="10" y="298">  │     └── varint@4.0.1 </tspan>
+<tspan x="10" y="314">  ├── defined@1.0.0 </tspan>
+<tspan x="10" y="330">  ├── end-of-stream@1.4.0 </tspan>
+<tspan x="10" y="346">  ├─┬ has@1.0.1 </tspan>
+<tspan x="10" y="362">  │ └── function-bind@1.1.0 </tspan>
+<tspan x="10" y="378">  ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="394">  ├── minimist@1.2.0 </tspan>
+<tspan x="10" y="410">  ├─┬ mkdirp@0.5.1 </tspan>
+<tspan x="10" y="426">  │ └── minimist@0.0.8 </tspan>
+<tspan x="10" y="442">  ├─┬ once@1.4.0 </tspan>
+<tspan x="10" y="458">  │ └── wrappy@1.0.2 </tspan>
+<tspan x="10" y="474">  ├─┬ respawn-group@1.1.0 </tspan>
+<tspan x="10" y="490">  │ ├── after-all@1.1.0 </tspan>
+<tspan x="10" y="506">  │ └─┬ respawn@1.1.0 </tspan>
+<tspan x="10" y="522">  │   ├─┬ ps-tree@0.0.3 </tspan>
+<tspan x="10" y="538">  │   │ └─┬ event-stream@0.5.3 </tspan>
+<tspan x="10" y="554">  │   │   └─┬ optimist@0.2.8 </tspan>
+<tspan x="10" y="570">  │   │     └── wordwrap@0.0.3 </tspan>
+<tspan x="10" y="586">  │   └─┬ xtend@2.1.2 </tspan>
+<tspan x="10" y="602">  │     └── object-keys@0.4.0 </tspan>
+<tspan x="10" y="618">  ├─┬ rpc-stream@2.1.2 </tspan>
+<tspan x="10" y="634">  │ ├── stream-serializer@1.0.0 </tspan>
+<tspan x="10" y="650">  │ └── through@2.3.8 </tspan>
+<tspan x="10" y="666">  ├─┬ slice-file@1.0.0 </tspan>
+<tspan x="10" y="682">  │ ├── inherits@1.0.2 </tspan>
+<tspan x="10" y="698">  │ └── split2@0.2.1 </tspan>
+<tspan x="10" y="714">  ├── sprintf@0.1.5 </tspan>
+<tspan x="10" y="730">  ├── text-table@0.2.0 </tspan>
+<tspan x="10" y="746">  ├─┬ through2@0.6.5 </tspan>
+<tspan x="10" y="762">  │ └─┬ readable-stream@1.0.34 </tspan>
+<tspan x="10" y="778">  │   ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="794">  │   ├── isarray@0.0.1 </tspan>
+<tspan x="10" y="810">  │   └── string_decoder@0.10.31 </tspan>
+<tspan x="10" y="826">  ├── timeago.js@1.1.0 </tspan>
+<tspan x="10" y="842">  ├─┬ xdg-basedir@2.0.0 </tspan>
+<tspan x="10" y="858">  │ └── os-homedir@1.0.2 </tspan>
+<tspan x="10" y="874">  └── xtend@4.0.1</tspan>
+</text>
+</svg>
